@@ -1,0 +1,6 @@
+INFO    2021-08-25 06:18:37,067 [main] Pages.TestBase  - Launched Browser.....!!!
+INFO    2021-08-25 06:18:37,402 [main] Pages.TestBase  - Clicked on account
+INFO    2021-08-25 06:18:39,699 [main] Pages.TestBase  - Clicked on myaccount
+INFO    2021-08-25 06:18:39,817 [main] Pages.TestBase  - Typed shraddhaforparimal@gmail.com in : emailID
+INFO    2021-08-25 06:18:40,072 [main] Pages.TestBase  - Typed swarajforupsc in : loginpassword
+INFO    2021-08-25 06:18:42,927 [main] Pages.TestBase  - Clicked on loginbtn

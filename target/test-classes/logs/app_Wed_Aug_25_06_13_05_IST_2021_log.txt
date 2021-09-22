@@ -1,0 +1,35 @@
+INFO    2021-08-25 06:13:15,349 [main] Pages.TestBase  - Launched Browser.....!!!
+INFO    2021-08-25 06:13:15,619 [main] Pages.TestBase  - Test Started
+INFO    2021-08-25 06:13:15,704 [main] Pages.TestBase  - Clicked on account
+INFO    2021-08-25 06:13:17,488 [main] Pages.TestBase  - Clicked on myaccount
+INFO    2021-08-25 06:13:17,623 [main] Pages.TestBase  - Typed shraddhaforparimal@gmail.com in : emailID
+INFO    2021-08-25 06:13:18,011 [main] Pages.TestBase  - Typed swarajforupsc in : loginpassword
+INFO    2021-08-25 06:13:21,399 [main] Pages.TestBase  - Clicked on loginbtn
+INFO    2021-08-25 06:13:21,773 [main] Pages.TestBase  - Screenshot Taken and stored at path :C:\Users\Parimal\eclipse-workspace\EcommerceTesting\target\surefire-reports\html\Wed_Aug_25_06_13_21_IST_2021.jpg
+INFO    2021-08-25 06:13:21,774 [main] Pages.TestBase  - verifyWelcomeMsgTest is Failed
+INFO    2021-08-25 06:13:33,448 [main] Pages.TestBase  - Launched Browser.....!!!
+INFO    2021-08-25 06:13:33,764 [main] Pages.TestBase  - Clicked on account
+INFO    2021-08-25 06:13:36,071 [main] Pages.TestBase  - Clicked on myaccount
+INFO    2021-08-25 06:13:36,965 [main] Pages.TestBase  - Clicked on createanaccount
+INFO    2021-08-25 06:13:37,060 [main] Pages.TestBase  - Test Started
+INFO    2021-08-25 06:13:37,342 [main] Pages.TestBase  - Typed manku in : firstname
+INFO    2021-08-25 06:13:37,435 [main] Pages.TestBase  - Typed patil in : lastname
+INFO    2021-08-25 06:13:37,520 [main] Pages.TestBase  - Typed mp@g.com in : mail
+INFO    2021-08-25 06:13:37,615 [main] Pages.TestBase  - Typed 12345678 in : password
+INFO    2021-08-25 06:13:37,698 [main] Pages.TestBase  - Typed 12345678 in : confirmpassword
+INFO    2021-08-25 06:13:39,719 [main] Pages.TestBase  - Clicked on register
+INFO    2021-08-25 06:13:49,940 [main] Pages.TestBase  - Screenshot Taken and stored at path :C:\Users\Parimal\eclipse-workspace\EcommerceTesting\target\surefire-reports\html\Wed_Aug_25_06_13_49_IST_2021.jpg
+INFO    2021-08-25 06:13:49,941 [main] Pages.TestBase  - createAccountTest is Failed
+INFO    2021-08-25 06:13:58,853 [main] Pages.TestBase  - Launched Browser.....!!!
+INFO    2021-08-25 06:13:59,221 [main] Pages.TestBase  - Clicked on account
+INFO    2021-08-25 06:14:04,678 [main] Pages.TestBase  - Clicked on myaccount
+INFO    2021-08-25 06:14:05,590 [main] Pages.TestBase  - Clicked on createanaccount
+INFO    2021-08-25 06:14:05,643 [main] Pages.TestBase  - Test Started
+INFO    2021-08-25 06:14:05,907 [main] Pages.TestBase  - Typed  in : firstname
+INFO    2021-08-25 06:14:05,981 [main] Pages.TestBase  - Typed  in : lastname
+INFO    2021-08-25 06:14:06,046 [main] Pages.TestBase  - Typed  in : mail
+INFO    2021-08-25 06:14:06,120 [main] Pages.TestBase  - Typed  in : password
+INFO    2021-08-25 06:14:06,206 [main] Pages.TestBase  - Typed  in : confirmpassword
+INFO    2021-08-25 06:14:06,276 [main] Pages.TestBase  - Clicked on register
+INFO    2021-08-25 06:14:16,439 [main] Pages.TestBase  - Screenshot Taken and stored at path :C:\Users\Parimal\eclipse-workspace\EcommerceTesting\target\surefire-reports\html\Wed_Aug_25_06_14_16_IST_2021.jpg
+INFO    2021-08-25 06:14:16,440 [main] Pages.TestBase  - createAccountTest is Failed

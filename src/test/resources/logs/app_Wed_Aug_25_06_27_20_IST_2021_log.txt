@@ -1,0 +1,107 @@
+INFO    2021-08-25 06:27:30,661 [main] Pages.TestBase  - Launched Browser.....!!!
+INFO    2021-08-25 06:27:30,875 [main] Pages.TestBase  - Test Started
+INFO    2021-08-25 06:27:30,967 [main] Pages.TestBase  - Clicked on account
+INFO    2021-08-25 06:27:35,622 [main] Pages.TestBase  - Clicked on myaccount
+INFO    2021-08-25 06:27:35,739 [main] Pages.TestBase  - Typed shraddhaforparimal@gmail.com in : emailID
+INFO    2021-08-25 06:27:36,176 [main] Pages.TestBase  - Typed swarajforupsc in : loginpassword
+INFO    2021-08-25 06:27:40,858 [main] Pages.TestBase  - Clicked on loginbtn
+INFO    2021-08-25 06:27:40,951 [main] Pages.TestBase  - verifyWelcomeMsgTest is Passed
+INFO    2021-08-25 06:27:53,086 [main] Pages.TestBase  - Launched Browser.....!!!
+INFO    2021-08-25 06:27:57,407 [main] Pages.TestBase  - Clicked on mobile
+INFO    2021-08-25 06:27:57,606 [main] Pages.TestBase  - Test Started
+INFO    2021-08-25 06:28:03,993 [main] Pages.TestBase  - CompareValuesTest is Passed
+INFO    2021-08-25 06:28:13,586 [main] Pages.TestBase  - Launched Browser.....!!!
+INFO    2021-08-25 06:28:17,692 [main] Pages.TestBase  - Clicked on mobile
+INFO    2021-08-25 06:28:17,847 [main] Pages.TestBase  - Test Started
+INFO    2021-08-25 06:28:23,056 [main] Pages.TestBase  - Clicked on addtocart
+INFO    2021-08-25 06:28:23,087 [main] Pages.TestBase  - addToCartTest is Passed
+INFO    2021-08-25 06:28:34,174 [main] Pages.TestBase  - Launched Browser.....!!!
+INFO    2021-08-25 06:28:40,073 [main] Pages.TestBase  - Clicked on mobile
+INFO    2021-08-25 06:28:40,188 [main] Pages.TestBase  - Test Started
+INFO    2021-08-25 06:28:42,591 [main] Pages.TestBase  - Clicked on addtocart
+INFO    2021-08-25 06:28:43,206 [main] Pages.TestBase  - Typed 15 in : qty
+INFO    2021-08-25 06:28:45,978 [main] Pages.TestBase  - Clicked on update
+INFO    2021-08-25 06:28:56,052 [main] Pages.TestBase  - updateCartTest is Passed
+INFO    2021-08-25 06:29:05,624 [main] Pages.TestBase  - Launched Browser.....!!!
+INFO    2021-08-25 06:29:09,760 [main] Pages.TestBase  - Clicked on mobile
+INFO    2021-08-25 06:29:09,854 [main] Pages.TestBase  - Test Started
+INFO    2021-08-25 06:29:13,261 [main] Pages.TestBase  - Clicked on addtocart
+INFO    2021-08-25 06:29:13,405 [main] Pages.TestBase  - Typed 1000 in : qty
+INFO    2021-08-25 06:29:17,666 [main] Pages.TestBase  - Clicked on update
+INFO    2021-08-25 06:29:18,259 [main] Pages.TestBase  - Screenshot Taken and stored at path :C:\Users\Parimal\eclipse-workspace\EcommerceTesting\target\surefire-reports\html\Wed_Aug_25_06_29_18_IST_2021.jpg
+INFO    2021-08-25 06:29:18,259 [main] Pages.TestBase  - updateCartTest is Failed
+INFO    2021-08-25 06:29:31,360 [main] Pages.TestBase  - Launched Browser.....!!!
+INFO    2021-08-25 06:29:36,608 [main] Pages.TestBase  - Clicked on mobile
+INFO    2021-08-25 06:29:36,692 [main] Pages.TestBase  - Test Started
+INFO    2021-08-25 06:29:39,227 [main] Pages.TestBase  - Clicked on addtocart
+INFO    2021-08-25 06:29:39,371 [main] Pages.TestBase  - Typed 20 in : qty
+INFO    2021-08-25 06:29:42,279 [main] Pages.TestBase  - Clicked on update
+INFO    2021-08-25 06:29:56,087 [main] Pages.TestBase  - Clicked on emptycart
+INFO    2021-08-25 06:29:56,176 [main] Pages.TestBase  - emptyCartTest is Passed
+INFO    2021-08-25 06:30:07,822 [main] Pages.TestBase  - Launched Browser.....!!!
+INFO    2021-08-25 06:30:11,809 [main] Pages.TestBase  - Clicked on mobile
+INFO    2021-08-25 06:30:11,907 [main] Pages.TestBase  - Test Started
+INFO    2021-08-25 06:30:16,829 [main] Pages.TestBase  - Clicked on comparemobiles
+INFO    2021-08-25 06:30:19,865 [main] Pages.TestBase  - compareMobilesTest is Passed
+INFO    2021-08-25 06:30:29,068 [main] Pages.TestBase  - Launched Browser.....!!!
+INFO    2021-08-25 06:30:34,919 [main] Pages.TestBase  - Clicked on mobile
+INFO    2021-08-25 06:30:34,997 [main] Pages.TestBase  - Test Started
+INFO    2021-08-25 06:30:38,689 [main] Pages.TestBase  - Clicked on comparemobiles
+INFO    2021-08-25 06:30:41,012 [main] Pages.TestBase  - compareMobilesTest is Passed
+INFO    2021-08-25 06:30:49,378 [main] Pages.TestBase  - Launched Browser.....!!!
+INFO    2021-08-25 06:30:53,996 [main] Pages.TestBase  - Clicked on mobile
+INFO    2021-08-25 06:30:54,063 [main] Pages.TestBase  - Test Started
+INFO    2021-08-25 06:30:56,527 [main] Pages.TestBase  - Clicked on dropdown sortby and selected Price
+INFO    2021-08-25 06:30:56,600 [main] Pages.TestBase  - sortByTest is Passed
+INFO    2021-08-25 06:31:06,265 [main] Pages.TestBase  - Launched Browser.....!!!
+INFO    2021-08-25 06:31:11,488 [main] Pages.TestBase  - Clicked on mobile
+INFO    2021-08-25 06:31:11,536 [main] Pages.TestBase  - Test Started
+INFO    2021-08-25 06:31:11,587 [main] Pages.TestBase  - Clicked on dropdown sortby and selected Position
+INFO    2021-08-25 06:31:11,889 [main] Pages.TestBase  - Screenshot Taken and stored at path :C:\Users\Parimal\eclipse-workspace\EcommerceTesting\target\surefire-reports\html\Wed_Aug_25_06_31_11_IST_2021.jpg
+INFO    2021-08-25 06:31:11,889 [main] Pages.TestBase  - sortByTest is Failed
+INFO    2021-08-25 06:31:21,988 [main] Pages.TestBase  - Launched Browser.....!!!
+INFO    2021-08-25 06:31:27,485 [main] Pages.TestBase  - Clicked on mobile
+INFO    2021-08-25 06:31:27,544 [main] Pages.TestBase  - Test Started
+INFO    2021-08-25 06:31:29,030 [main] Pages.TestBase  - Clicked on dropdown sortby and selected Name
+INFO    2021-08-25 06:31:29,102 [main] Pages.TestBase  - sortByTest is Passed
+INFO    2021-08-25 06:31:37,006 [main] Pages.TestBase  - Launched Browser.....!!!
+INFO    2021-08-25 06:31:41,002 [main] Pages.TestBase  - Clicked on mobile
+INFO    2021-08-25 06:31:41,058 [main] Pages.TestBase  - Test Started
+INFO    2021-08-25 06:31:41,336 [main] Pages.TestBase  - Clicked on account
+INFO    2021-08-25 06:31:43,094 [main] Pages.TestBase  - Clicked on myaccount
+INFO    2021-08-25 06:31:43,174 [main] Pages.TestBase  - Typed mp@g.com in : emailID
+INFO    2021-08-25 06:31:43,445 [main] Pages.TestBase  - Typed 12345678 in : loginpassword
+INFO    2021-08-25 06:31:46,697 [main] Pages.TestBase  - Clicked on loginbtn
+INFO    2021-08-25 06:31:48,994 [main] Pages.TestBase  - Clicked on mobile
+INFO    2021-08-25 06:31:53,417 [main] Pages.TestBase  - Clicked on addtowishlist
+INFO    2021-08-25 06:31:55,120 [main] Pages.TestBase  - Clicked on sharewishlist
+INFO    2021-08-25 06:31:55,176 [main] Pages.TestBase  - Typed mp@g.com in : textareaemail
+INFO    2021-08-25 06:31:55,442 [main] Pages.TestBase  - Typed Test in : textareamsg
+INFO    2021-08-25 06:31:58,280 [main] Pages.TestBase  - Clicked on sharewishlist
+INFO    2021-08-25 06:31:58,311 [main] Pages.TestBase  - shareWishlistTest is Passed
+INFO    2021-08-25 06:32:09,023 [main] Pages.TestBase  - Launched Browser.....!!!
+INFO    2021-08-25 06:32:09,251 [main] Pages.TestBase  - Clicked on account
+INFO    2021-08-25 06:32:12,716 [main] Pages.TestBase  - Clicked on myaccount
+INFO    2021-08-25 06:32:13,568 [main] Pages.TestBase  - Clicked on createanaccount
+INFO    2021-08-25 06:32:13,613 [main] Pages.TestBase  - Test Started
+INFO    2021-08-25 06:32:13,680 [main] Pages.TestBase  - Typed manku in : firstname
+INFO    2021-08-25 06:32:13,940 [main] Pages.TestBase  - Typed patil in : lastname
+INFO    2021-08-25 06:32:14,028 [main] Pages.TestBase  - Typed mp@g.com in : mail
+INFO    2021-08-25 06:32:14,121 [main] Pages.TestBase  - Typed 12345678 in : password
+INFO    2021-08-25 06:32:14,207 [main] Pages.TestBase  - Typed 12345678 in : confirmpassword
+INFO    2021-08-25 06:32:15,883 [main] Pages.TestBase  - Clicked on register
+INFO    2021-08-25 06:32:26,065 [main] Pages.TestBase  - Screenshot Taken and stored at path :C:\Users\Parimal\eclipse-workspace\EcommerceTesting\target\surefire-reports\html\Wed_Aug_25_06_32_26_IST_2021.jpg
+INFO    2021-08-25 06:32:26,065 [main] Pages.TestBase  - createAccountTest is Failed
+INFO    2021-08-25 06:32:37,839 [main] Pages.TestBase  - Launched Browser.....!!!
+INFO    2021-08-25 06:32:38,059 [main] Pages.TestBase  - Clicked on account
+INFO    2021-08-25 06:32:41,207 [main] Pages.TestBase  - Clicked on myaccount
+INFO    2021-08-25 06:32:42,196 [main] Pages.TestBase  - Clicked on createanaccount
+INFO    2021-08-25 06:32:42,229 [main] Pages.TestBase  - Test Started
+INFO    2021-08-25 06:32:42,273 [main] Pages.TestBase  - Typed  in : firstname
+INFO    2021-08-25 06:32:42,342 [main] Pages.TestBase  - Typed  in : lastname
+INFO    2021-08-25 06:32:42,610 [main] Pages.TestBase  - Typed  in : mail
+INFO    2021-08-25 06:32:42,682 [main] Pages.TestBase  - Typed  in : password
+INFO    2021-08-25 06:32:42,755 [main] Pages.TestBase  - Typed  in : confirmpassword
+INFO    2021-08-25 06:32:42,835 [main] Pages.TestBase  - Clicked on register
+INFO    2021-08-25 06:32:53,010 [main] Pages.TestBase  - Screenshot Taken and stored at path :C:\Users\Parimal\eclipse-workspace\EcommerceTesting\target\surefire-reports\html\Wed_Aug_25_06_32_53_IST_2021.jpg
+INFO    2021-08-25 06:32:53,010 [main] Pages.TestBase  - createAccountTest is Failed
